@@ -14,17 +14,27 @@ Eu sou a Laura, tenho 20 anos e atualmente faço Analise e desenvolvimento de si
 <br><br>
 🔧Tecnologias
 <hr style="margin-bottom: 5px; margin-top: 5px;" >
-        <div class="contato">
-            <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,spring,eclipse,mysql,postgres" alt="">
-        </div>
+<div class="contato" align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,spring,eclipse,mysql,postgres" alt="">
+</div>
+<br>
+
+<div align="center">
+  
+  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=laurahalv&layout=compact&bg_color=00000000)
+</div>
+
 <br>
 💬Contato
 <hr style="margin-bottom: 5px; margin-top: 5px">
-            <div>
-            <a target="_blank" href="https://www.linkedin.com/in/laurahalv"> <img title="Linkedin"
-                    src="https://skillicons.dev/icons?i=linkedin" alt=""></a>
-            <a href="mailto: laura.halves1@gmail.com"><img title="laura.halves@gmail.com"
-                    src="https://skillicons.dev/icons?i=gmail" alt=""></a>
-            <img title="maflexninja" src="https://skillicons.dev/icons?i=discord" alt="">
-            </div>
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/laurahalv">
+    <img title="Linkedin" src="https://skillicons.dev/icons?i=linkedin" alt="">
+  </a>
+  <a href="mailto: laura.halves1@gmail.com">
+    <img title="laura.halves@gmail.com" src="https://skillicons.dev/icons?i=gmail" alt="">
+  </a>
+  <img title="maflexninja" src="https://skillicons.dev/icons?i=discord" alt="">
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=ADD8E6&height=120&section=footer">
