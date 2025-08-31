@@ -34,7 +34,6 @@ Eu sou a Laura, tenho 20 anos e atualmente faço Analise e desenvolvimento de si
   <a href="mailto: laura.halves1@gmail.com">
     <img title="laura.halves@gmail.com" src="https://skillicons.dev/icons?i=gmail" alt="">
   </a>
-  <img title="maflexninja" src="https://skillicons.dev/icons?i=discord" alt="">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=ADD8E6&height=120&section=footer">
